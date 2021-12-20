@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 All of my projects are available here at my Github**
+- 👨‍💻 All of my projects are available here at my Github
 
 - 📫 How to reach me **nafisrizwank@gmail.com**
 
-- ⚡ Fun Fact about me ** I love coding and working out **
+- ⚡ Fun Fact about me **I love coding and working out**
 
 - 💼 Check out my **<a align="center" href="https://www.linkedin.com/in/nafisrk/" target="_blank"> LinkedIn! </a>**
 
