@@ -7,9 +7,11 @@
 
 - 👨‍💻 All of my projects are available here at my Github
 
-- 📫 How to reach me **nafisrizwank@gmail.com**
+- ✍️ Looking for internships for Summer 2022
 
-- ⚡ Fun Fact: **I love coding and weight lifting**
+-⚡ Fun Fact: **I love coding and weight lifting**
+
+- 📫 How to reach me **nafisrizwank@gmail.com**
 
 - 💼 Check out my **<a align="center" href="https://www.linkedin.com/in/nafisrk/" target="_blank"> LinkedIn! </a>**
 
