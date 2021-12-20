@@ -8,8 +8,7 @@
 - 👨‍💻 All of my projects are available here at my Github
 
 - ✍️ Looking for internships for Summer 2022
-
--⚡ Fun Fact: **I love coding and weight lifting**
+- ⚡ Fun Fact: **I love coding and weight lifting**
 
 - 📫 How to reach me **nafisrizwank@gmail.com**
 
