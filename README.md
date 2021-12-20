@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/nafisK)**
+- 👨‍💻 All of my projects are available here at my Github**
 
 - 📫 How to reach me **nafisrizwank@gmail.com**
 
