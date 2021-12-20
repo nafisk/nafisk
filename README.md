@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nafis Khan</h1>
 <h3 align="center">I'm an Android Developer and a student at @CCNY.</h3>
-<h3 href="https://www.linkedin.com/in/nafisrk/" align="center">Check out my LinkedIn!</h3>
+<h3 align="center">Check out my LinkedIn!  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> </h3>
 
 
 
