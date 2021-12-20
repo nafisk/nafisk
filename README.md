@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nafis Khan</h1>
 <h3 align="center">I'm an Android Developer and a student at @CCNY.</h3>
-<a href="https://www.linkedin.com/in/nafisrk/" target="_blank"> Check out my LinkedIn! </a>
+<a align="center" href="https://www.linkedin.com/in/nafisrk/" target="_blank"> Check out my LinkedIn! </a>
 
 ## 🙋‍♂️ About Me
 
