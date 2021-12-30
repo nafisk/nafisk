@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47mqie3jpjpikud81rh4woaplvocvdx0x3rz9rbudl&rid=giphy.gif&ct=g" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47mqie3jpjpikud81rh4woaplvocvdx0x3rz9rbudl&rid=giphy.gif&ct=g" width="30px" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Nafis Khan</h1>
 <h3 align="center">Android Developer & Student @CCNY</h3>
