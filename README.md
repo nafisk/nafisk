@@ -52,13 +52,6 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/nafisrk/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-</p>
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nafisK">
