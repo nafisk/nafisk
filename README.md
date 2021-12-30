@@ -2,6 +2,16 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nafis Khan</h1>
 <h3 align="center">I'm an Android Developer, a TA and a student at @CCNY.  </h3>
+<h3 align="center">
+    <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=nafisK">
+    </a>
+    <a href="https://github.com/nafisK?tab=followers">
+    <img src="https://img.shields.io/github/followers/nafisK?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</h3>
+
+
 
 ## 🙋‍♂️ About Me
 
@@ -53,7 +63,4 @@
 <br/>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=nafisK">
-</a>
-<a href="https://github.com/nafisK?tab=followers"><img src="https://img.shields.io/github/followers/nafisK?label=Followers&style=social" alt="GitHub Badge"></a>
+
