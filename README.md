@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nafis Khan</h1>
+<h1 align="center">Hi <img src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47mqie3jpjpikud81rh4woaplvocvdx0x3rz9rbudl&rid=giphy.gif&ct=g" width="30px">, I'm Nafis Khan</h1>
 <h3 align="center">Android Developer & Student @CCNY</h3>
 <h3 align="center">
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
