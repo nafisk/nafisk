@@ -15,12 +15,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 All of my projects are available here at my Github
+- 👨‍💻 Check out all my projects here
 
-- ✍️ Looking for internships for Summer 2022
-- ⚡ Fun Fact: **I love coding and weight lifting**
+- ✍️ Currently Looking for internships for Summer 2022
+- 
+- ⚡ Fun Fact: **I love coding and lifting**
 
-- 📫 How to reach me **nafisrizwank@gmail.com**
+- 📫 Email me: **nafisrizwank@gmail.com**
 
 - 💼 Check out my **<a align="center" href="https://www.linkedin.com/in/nafisrk/" target="_blank"> LinkedIn! </a>**
 
