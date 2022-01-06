@@ -13,13 +13,13 @@
 
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ A bit about me:
 
-- 👨‍💻 Check out all my projects here
+- 📍 Current location: New York City
 
-- ✍️ Currently Looking for internships for Summer 2022
+- 👊 Currently Looking for internships for Summer 2022
 
-- ⚡ Fun Fact: **I love coding and lifting**
+- ⚡ Personal interests: **🏋️‍♂🧑‍💻📺🏃‍💨**
 
 - 📫 Email me: **nafisrizwank@gmail.com**
 
