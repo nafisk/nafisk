@@ -15,14 +15,10 @@
 
 ## 🙋‍♂️ A bit about me:
 
-- 📍 Current location: New York City
-
 - 👊 Currently Looking for internships for Summer 2022
-
+- 📍 Current location: New York City
 - ⚡ Personal interests: **🏋️‍♂🧑‍💻📺🏃‍💨**
-
 - 📫 Email me: **nafisrizwank@gmail.com**
-
 - 💼 Check out my **<a align="center" href="https://www.linkedin.com/in/nafisrk/" target="_blank"> LinkedIn! </a>**
 
 ## 🚀 Languages and Tools:
@@ -43,9 +39,6 @@
     <a href="https://parseplatform.org/" target="_blank"> <img src="https://parseplatform.org/img/logo.svg" style="width: 55px; height: 55px;"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
-
-<br/>
-
 
 ## 📊 My Github Stats
 
