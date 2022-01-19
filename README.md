@@ -21,7 +21,7 @@
 - 📫 Contact me: **nafisrizwank@gmail.com**
 - 💼 Check out my **<a align="center" href="https://www.linkedin.com/in/nafisrk/" target="_blank"> LinkedIn! </a>**
 
-## 🚀 Languages, Skills and Technology:
+## 🚀 Skills and Technologies:
 
 <p align="center" > 
     <a href="https://icons8.com/icon/P2AnGyiJxMpp/android-os"> <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/> </a>
