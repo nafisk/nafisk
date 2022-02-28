@@ -17,7 +17,7 @@
 
 - 👊 Currently Looking for internships for Summer 2022
 - 📍 Located In: New York City
-- ⚡ Personal interests: **🏋️‍♂🧑‍💻📺🏃‍💨**
+- ⚡ Personal interests: **🏋️‍🧑‍💻🕹️📚**
 - 📫 Contact me: **nafisrizwank@gmail.com**
 - 💼 Check out my **<a align="center" href="https://www.linkedin.com/in/nafisrk/" target="_blank"> LinkedIn! </a>**
 
