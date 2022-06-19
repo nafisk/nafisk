@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ A bit about me:
 
-- 👊 Currently Looking for internships for Summer 2022
+- 👊 Currently Looking for internships
 - 📍 Located In: New York City
 - ⚡ Personal interests: **🏋️‍🧑‍💻🕹️📚**
 - 📫 Contact me: **nafisrizwank@gmail.com**
