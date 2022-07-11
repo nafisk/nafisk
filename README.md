@@ -35,6 +35,7 @@
     <img src="https://img.icons8.com/color/48/000000/python.png"/>
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+    <br/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
     <img src="https://parseplatform.org/img/logo.svg" style="width: 55px; height: 55px;"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
