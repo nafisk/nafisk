@@ -18,9 +18,9 @@
 - 👊 Currently Looking for internships
 - 📍 Located In: New York City
 - ⚡ Personal interests: **🏋️‍🧑‍💻🕹️📚**
-- 📫 Contact me: **nafisrizwank@gmail.com**
 - 📜 Look at my **<a align="center" href="https://drive.google.com/file/d/1AiQ744BOl237WhIZpljUiW0zSesqJBFM/view?usp=sharing" target="_blank"> Resume </a>**
 - 💼 Check out my **<a align="center" href="https://www.linkedin.com/in/nafisrk/" target="_blank"> LinkedIn! </a>**
+- 📫 Contact me: **nafisrizwank@gmail.com**
 
 ## 🚀 Skills and Technologies:
 
