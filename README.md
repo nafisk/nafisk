@@ -51,6 +51,9 @@
     <a href="https://github.com/nafisK/github-readme-stats"><img alt="nafisK Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nafisK&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="490" height="100%"/></a>
   <a href="https://github.com/nafisK/github-readme-stats"><img alt="nafisK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisK&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</div>
+
+<!-- ![](https://raw.githubusercontent.com/nafisK/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nafisK/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/nafisK/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nafisK/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
 
