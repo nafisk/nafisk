@@ -48,12 +48,12 @@
 ## 📊 My Github Stats
 
 <div align="center">
-<!--     <a href="https://github.com/nafisK/github-readme-stats"><img alt="nafisK Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nafisK&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="490" height="100%"/></a>
-  <a href="https://github.com/nafisK/github-readme-stats"><img alt="nafisK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisK&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+    <a href="https://github.com/nafisK/github-readme-stats"><img alt="nafisK Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nafisK&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="490" height="100%"/></a>
+  <a href="https://github.com/nafisK/github-readme-stats"><img alt="nafisK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisK&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-![](https://raw.githubusercontent.com/nafisK/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/nafisK/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/nafisK/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/nafisK/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nafisK/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/nafisK/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
 
