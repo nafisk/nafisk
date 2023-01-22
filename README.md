@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"/>, I'm Nafis</h1>
-<h3 align="center">Full-Stack & Android Developer & Student @CCNY</h3>
+<h3 align="center">Full-Stack & Android Developer & CS Student @CCNY</h3>
 <h3 align="center">
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nafisK">
