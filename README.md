@@ -11,7 +11,7 @@
     </a>
 </h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
 ## 🙋‍♂️ A bit about me: 
 
@@ -39,7 +39,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
     <br/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-    <img src="https://parseplatform.org/img/logo.svg" style="width: 55px; height: 55px;"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="50" height="50"/>
     <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" width="50" height="50"/>
