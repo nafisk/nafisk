@@ -13,11 +13,19 @@
 - 📫 Email me: **<a href="mailto:nafisrizwank@gmail.com">nafisrizwank@gmail.com</a>**
 
 <p align="center" > 
-    <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/markdown.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+</p>
+<p align="center" > 
+    
+</p>
+
+    <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
@@ -30,4 +38,3 @@
     <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="50" height="50"/>
     <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" width="50" height="50"/>
 
-</p>
