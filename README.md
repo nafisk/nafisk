@@ -10,9 +10,7 @@
 - ⚡ Personal interests are **🏋️‍🧑‍💻🕹️👨‍💻🏋️**
 - 📜 Find my **<a align="center" href="https://nafisk.com/resume" target="_blank"> Resume </a>** here
 - 💼 Connect with me **<a align="center" href="https://www.nafisk.com/linkedin" target="_blank"> LinkedIn </a>**
-- 📫 Email me: **<a href="mailto:email@example.com">nafisrizwank@gmail.com</a>**
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  Skills and Technologies:
+- 📫 Email me: **<a href="mailto:nafisrizwank@gmail.com">nafisrizwank@gmail.com</a>**
 
 <p align="center" > 
     <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
