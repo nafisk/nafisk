@@ -12,6 +12,7 @@
 - 💼 Connect with me **<a align="center" href="https://www.nafisk.com/linkedin" target="_blank"> LinkedIn </a>**
 - 📫 Email me: **<a href="mailto:nafisrizwank@gmail.com">nafisrizwank@gmail.com</a>**
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills and Technologies:
 <p align="center" > 
     <img src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
