@@ -11,7 +11,7 @@
 - 📍 Located in New York City
 - ⚡ Personal interests are **🏋️‍🧑‍💻🕹️🏋️‍🧑‍💻**
 - 📜 Find my **<a align="center" href="https://drive.google.com/file/d/1TpZw1LA65imv_Wzz1mwmAcSwdpQ5XLMH/view?usp=sharing" target="_blank"> Resume </a>** here
-- 💼 Connect with me **<a align="center" href="https://www.linkedin.com/in/nafisrk/" target="_blank"> LinkedIn </a>**
+- 💼 Connect with me **<a align="center" href="https://www.nafisk.com/resume" target="_blank"> LinkedIn </a>**
 - 📫 Email me directly: **nafisrizwank@gmail.com**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  Skills and Technologies:
