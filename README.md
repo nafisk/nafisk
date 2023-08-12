@@ -22,6 +22,8 @@
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 </p>
+</br>
+
 <p align="center" > 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="48"/>
     <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="48"/>
@@ -30,6 +32,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="48"/>
     <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" width="48"/>
 </p>
+
+</br>
 <p align="center" > 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="60"/>
     <img src="https://cdn-icons-png.flaticon.com/512/2867/2867342.png" width="48"/>
