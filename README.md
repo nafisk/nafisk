@@ -31,11 +31,11 @@
     <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" width="48"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="48"/>
     <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" width="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="60"/>
 </p>
 
 </br>
 <p align="center" > 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="60"/>
     <img src="https://cdn-icons-png.flaticon.com/512/2867/2867342.png" width="48"/>
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48"/>
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width="70"/>
