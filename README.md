@@ -22,6 +22,7 @@
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 </p>
+
 </br>
 
 <p align="center" > 
@@ -35,10 +36,11 @@
 </p>
 
 </br>
+
 <p align="center" > 
     <img src="https://cdn-icons-png.flaticon.com/512/2867/2867342.png" width="48"/>
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48"/>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width="70"/>
+    <img src="https://icons-for-free.com/iconfiles/png/512/coding+development+github+programming+social+icon-1320086085448562008.png" width="60"/>
     <img src="https://msdynamicsnavashwinitripathi.files.wordpress.com/2021/01/docker_logo.png" width="48"/>
     <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="48"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="60"/>
