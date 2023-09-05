@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Developer </br> CS <a align="center" href="https://www.ccny.cuny.edu/" target="_blank"> @CCNY </a></h3>
 
 
-## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f64c.gif" width="30" height="30"/> A bit about me: 
+## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f64c.gif" width="25" height="25"/> A bit about me: 
 - 👊 Looking for Fresh-Grad SWE roles
 - 📍 Located in New York City
 - ⚡ Personal interests are **🏋️‍🧑‍💻🕹️👨‍💻🏋️**
