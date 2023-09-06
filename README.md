@@ -12,6 +12,7 @@
 - 💼 Connect with me **<a align="center" href="https://www.nafisk.com/linkedin" target="_blank"> LinkedIn </a>**
 - 📫 Email me: **<a href="mailto:nafisrizwank@gmail.com">nafisrizwank@gmail.com</a>**
 
+<!---               
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills and Technologies:
 
 <p align="center" > 
@@ -50,4 +51,20 @@
     <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" width="48"/>
     <img src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png" width="90"/>
 </p>
+-->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Work Experience:
 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GoDaddy_Logo_-_The_GO.svg/2298px-GoDaddy_Logo_-_The_GO.svg.png" width ="15"> GoDaddy - Software Engineering Intern
+- <img src="https://colorstackmerch.org/cdn/shop/files/ColorStack-Slack-Image.png?v=1679111564" width ="15"> ColorStack - Software Engineering Fellow
+- <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/bloomberg_logo_icon_168504.png" width ="15"> Bloomberg - Accelerator Summer School
+- <img src="https://companieslogo.com/img/orig/GOOG-0ed88f7c.png?t=1633218227" width ="15"> Google ExploreCSR - Undergraduate ML Researcher
+- <img src="https://whoyouknow.org/wp-content/uploads/2020/10/BASTA_BLUE-e1601922943313.png" width ="50"> BASTA - Career Coach
+- <img src="https://cunytechprep.org/ctp-logo-square.png" width ="15"> CUNY Tech Prep - Software Engineering Fellow
+- <img src="https://cdn.freebiesupply.com/logos/large/2x/ups-logo-black-and-white.png" width ="15"> UPS - Software Engineer Intern
+- <img src="https://media.licdn.com/dms/image/D4E0BAQHvY3q904pT0w/company-logo_200_200/0/1666393186307?e=2147483647&v=beta&t=wMChHGtZxrp7ZX5lhHTfY0eMHcF-cw0Jc9YIq6asPJg" width ="15"> Headstarter - Software Engineering Fellow
+- <img src="https://companieslogo.com/img/orig/T-cec8a3f9.png?t=1633439494" width ="15"> AT&T - AT&T Technology Academy Apprentice
+- <img src="https://www.pngmart.com/files/23/Accenture-Logo-PNG-Photo.png" width ="15"> Accenture - Diversity Tech Externship
+- <img src="https://media.licdn.com/dms/image/C560BAQHCya33E38N2Q/company-logo_200_200/0/1522074883327?e=2147483647&v=beta&t=TcobLDAO3jZAA5d0lSis_dHOpWv7n4l6aPzf5zAhOxg" width ="15"> RF CUNY - Computer Science Teaching Assistant
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png" width ="15"> Microsoft - Tech Resilience Program Apprentice
+- <img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/wfsonfv0p92plryzwijf" width ="15"> CodePath - Android Development Teaching Assistant
+- <img src="https://companieslogo.com/img/orig/META-4767da84.png?t=1654568366" width ="15"> Meta - Android Engineering Intern Lead
