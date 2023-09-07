@@ -1,7 +1,11 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"/>, I'm Nafis</h1>
-<h3 align="center">Full-Stack Developer </br> CS <a align="center" href="https://www.ccny.cuny.edu/" target="_blank"> @CCNY </a></h3>
+<p 
+    align="center"><img width="25%" margin="0" padding="0" src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif"/>
+</p>
+<h3 align="center">
+    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"/>, I'm Nafis 
+    </br> 
+    Full-Stack Developer </br> CS <a align="center" href="https://www.ccny.cuny.edu/" target="_blank"> @CCNY </a>
+</h3>
 
 
 ## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f64c.gif" width="25" height="25"/> A bit about me: 
