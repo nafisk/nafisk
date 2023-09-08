@@ -10,11 +10,11 @@
 
 ## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f64c.gif" width="25" height="25"/> A bit about me: 
 - 👊 Looking for Fresh-Grad SWE roles
-<!-- - 📍 Located in New York City -->
 - ⚡ Personal interests are **🏋️‍🧑‍💻🕹️👨‍💻🏋️**
 - 📜 Find my **<a align="center" href="https://nafisk.com/resume" target="_blank"> Resume </a>** here
 - 💼 Connect with me **<a align="center" href="https://www.nafisk.com/linkedin" target="_blank"> LinkedIn </a>**
 - 📫 Email me: **<a href="mailto:nafisrizwank@gmail.com">nafisrizwank@gmail.com</a>**
+<!-- - 📍 Located in New York City -->
 
 <!---               
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills and Technologies:
