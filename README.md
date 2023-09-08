@@ -12,7 +12,7 @@
 - 👊 Looking for Fresh-Grad SWE roles
 - ⚡ Personal interests are **🏋️‍🧑‍💻🕹️👨‍💻🏋️**
 - 📜 Find my **<a align="center" href="https://nafisk.com/resume" target="_blank"> Resume </a>** here
-- 💼 Connect with me **<a align="center" href="https://www.nafisk.com/linkedin" target="_blank"> LinkedIn </a>**
+- 💼 Connect with me on **<a align="center" href="https://www.nafisk.com/linkedin" target="_blank"> LinkedIn </a>**
 - 📫 Email me: **<a href="mailto:nafisrizwank@gmail.com">nafisrizwank@gmail.com</a>**
 <!-- - 📍 Located in New York City -->
 
