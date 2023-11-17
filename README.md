@@ -9,7 +9,7 @@
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"/> -->
 
 ## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f64c.gif" width="25" height="25"/> A bit about me: 
-- 👊 Looking for Fresh-Grad SWE roles
+- 👊 Looking for New Grad SWE roles
 - ⚡ Personal interests are **🏋️‍🧑‍💻🕹️👨‍💻🏋️**
 - 📜 Find my **<a align="center" href="https://nafisk.com/resume" target="_blank"> Resume </a>** here
 - 💼 Connect with me on **<a align="center" href="https://www.nafisk.com/linkedin" target="_blank"> LinkedIn </a>**
