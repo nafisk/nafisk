@@ -4,7 +4,7 @@
 <h3 align="center">
     Hi, I'm Nafis 
     </br> 
-    Full-Stack Developer </br> CS <a align="center" href="https://www.ccny.cuny.edu/" target="_blank"> @CCNY </a>
+    Software Engineer </br> CS <a align="center" href="https://www.ccny.cuny.edu/" target="_blank"> @CCNY </a>
 </h3>
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"/> -->
 
