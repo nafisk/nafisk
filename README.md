@@ -58,6 +58,7 @@
 -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Work Experience:
 
+- <img src="https://companieslogo.com/img/orig/GOOG-0ed88f7c.png?t=1633218227" width ="15"> Google SWEP - Software Engineering Fellow
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GoDaddy_Logo_-_The_GO.svg/2298px-GoDaddy_Logo_-_The_GO.svg.png" width ="15"> GoDaddy - Software Engineering Intern
 - <img src="https://colorstackmerch.org/cdn/shop/files/ColorStack-Slack-Image.png?v=1679111564" width ="15"> ColorStack - Software Engineering Fellow
 - <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/bloomberg_logo_icon_168504.png" width ="15"> Bloomberg - Accelerator Summer School
