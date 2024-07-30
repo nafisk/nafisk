@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-    <img width="20%" margin="0" padding="0" src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif"/>
+    <img width="18%" margin="0" padding="0" src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif"/>
 </p>
 <h3 align="center">
     Hi, I'm Nafis 
