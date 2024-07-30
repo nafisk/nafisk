@@ -29,7 +29,7 @@ With a background in both technical education and hands-on development, I bring 
 
 - **CodePath Mentorship:** Mentoring under-represented students on Technical Interview Preparation for software engineering careers
 - **Building Online Communities:** Helping students by building the largest CS community at CCNY. Actively involved in tech communities, facilitating mentorship, networking, and career development opportunities
-- **Public Speaking:** Organized speaking events for students to understand and get more involved in tech, fostering a deeper engagement with the field.
+- **Public Speaking:** Organized speaking events for students to understand and get more involved in tech, fostering a deeper engagement with the field
 
 <!-- PROFESSIONAL GOALS -->
 
