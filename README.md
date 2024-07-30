@@ -45,6 +45,7 @@ With a background in both technical education and hands-on development, I bring 
 - 🐦 [Twitter](https://twitter.com/nafisxk)
 - 📫 [Email](mailto:nafisrizwank@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/nafisrk)
+- 📜 [Resume](https://nafisk.com/resume)
 
 <!-- WORK EXPERIENCE -->
 <details>
