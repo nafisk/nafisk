@@ -52,7 +52,7 @@ With a background in both technical education and hands-on development, I bring 
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Work Experience
   </summary>
 
-- <img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/wfsonfv0p92plryzwijf" width="15"> CodePath - Technical Interview Prep TA
+- <img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/wfsonfv0p92plryzwijf" width="15"> CodePath - Tech Fellow Manager
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GoDaddy_Logo_-_The_GO.svg/2298px-GoDaddy_Logo_-_The_GO.svg.png" width="15"> GoDaddy - Software Engineering Intern
 - <img src="https://cdn.freebiesupply.com/logos/large/2x/ups-logo-black-and-white.png" width="15"> UPS - Software Engineer Intern
 - <img src="https://companieslogo.com/img/orig/GOOG-0ed88f7c.png?t=1633218227" width="15"> Google SWEP - Software Engineering Fellow
