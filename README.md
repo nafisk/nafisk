@@ -42,7 +42,6 @@ With a background in both technical education and hands-on development, I bring 
 
 ## <img src="https://media2.giphy.com/media/efUQrWLjbgji5u1Ove/giphy.gif?cid=6c09b952iazyfa90y57by5i145fousdinkjr4viht87ebvkr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="25" height="25"/> Connect with Me
 
-- 🐦 [Twitter](https://twitter.com/nafisxk)
 - 📫 [Email](mailto:nafisrizwank@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/nafisrk)
 
