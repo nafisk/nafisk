@@ -72,7 +72,7 @@ With a background in both technical education and hands-on development, I bring 
 
   ```text
   +--------------------------+--------+------+
-  |      Lift Name           | Weight | Reps |
+  |      Lift                | Weight | Reps |
   +--------------------------+--------+------+
   | Deadlift                 |  405   |   5  |
   | Squat                    |  315   |   5  |
