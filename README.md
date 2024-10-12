@@ -52,6 +52,7 @@ With a background in both technical education and hands-on development, I bring 
   </summary>
 
 - <img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/wfsonfv0p92plryzwijf" width="15"> CodePath - Tech Fellow Manager
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmq5hiW912Avjt3t1hkmRtgIq83gPJ1WsrAA&s" width="15"> Fellowship.ai - Machine Learning Fellow
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GoDaddy_Logo_-_The_GO.svg/2298px-GoDaddy_Logo_-_The_GO.svg.png" width="15"> GoDaddy - Software Engineering Intern
 - <img src="https://cdn.freebiesupply.com/logos/large/2x/ups-logo-black-and-white.png" width="15"> UPS - Software Engineer Intern
 - <img src="https://companieslogo.com/img/orig/GOOG-0ed88f7c.png?t=1633218227" width="15"> Google SWEP - Software Engineering Fellow
@@ -66,4 +67,20 @@ With a background in both technical education and hands-on development, I bring 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png" width="15"> Microsoft - Tech Resilience Program Apprentice
 - <img src="https://companieslogo.com/img/orig/META-4767da84.png?t=1654568366" width="15"> Meta - Android Engineering Intern Lead
 
-</details>
+<details>
+  <summary>HEVY Stats</summary>
+
+  ```text
+  +--------------------------+--------+------+
+  |      Lift Name           | Weight | Reps |
+  +--------------------------+--------+------+
+  | Deadlift                 |  405   |   5  |
+  | Squat                    |  315   |   5  |
+  | Dumbbell Bench Press     |   90   |  12  |
+  | Pull Up                  |   55   |   8  |
+  | Incline Dumbbell Press   |   90   |   8  |
+  | Dumbbell Overhead Press  |   75   |   6  |
+  +--------------------------+--------+------+
+```
+</details> 
+</details> 
