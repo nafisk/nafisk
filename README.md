@@ -20,7 +20,7 @@ With a background in both technical education and hands-on development, I bring 
 
 - **Languages:** JavaScript, Python, Bash, C/C++, Go, Java, C#
 - **Frameworks & Libraries:** React.js, Next.js, TypeScript, Cypress.js, Jest, Flask, Tailwind CSS, React Native
-- **Skills & Technologies:** Unix/Linux, HTML/CSS, Git, GitHub Actions, Docker, Postman, AWS, Terraform, MongoDB, Jira, MySQL, Figma
+- **Skills & Technologies:** Unix/Linux, HTML/CSS, Git, GitHub Actions, Docker, Postman, AWS, Terraform, MongoDB, MySQL, Figma
 - **Learning:** Data Science and Machine Learning
 
 <!-- LEADERSHIP -->
