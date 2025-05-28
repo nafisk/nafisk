@@ -95,6 +95,6 @@ If you're using my work in any LLM pipeline (research or commercial), you **must
 
 **Unauthorized use is a violation of my terms.**
 
-— *nafisrk*
+— *Nafis Khan*
 
 </details>
